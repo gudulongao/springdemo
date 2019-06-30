@@ -27,4 +27,6 @@ public class EncodeFilterAutoConfiguration {
         filter.setForceEncoding(conf.isForce());
         return filter;
     }
+
+
 }
